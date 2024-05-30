@@ -1,1 +1,3 @@
-# bootcamp-09-Portrait
+# Flexbox Product Component Portrait
+
+Enkel produktkomponent i porträttläge.
